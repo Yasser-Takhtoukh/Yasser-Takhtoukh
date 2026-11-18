@@ -4,6 +4,6 @@
 - 👤 My accounts:
     HTB (Hack The Box): 3Dsky#MA
 - 🛠 My Skills: Basic pentesting, Python, Scripting
-- 🏆 Achievements: Completed 12 Very Easy And 8 Easy HTB boxes
+- 🏆 Achievements: Completed 12 Very Easy And 9 Easy HTB boxes
 - 🥋 2nd Dan Black Belt In Taekwondo
 - 
